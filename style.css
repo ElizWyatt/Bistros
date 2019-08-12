@@ -1,0 +1,89 @@
+.fusion {
+    font-size: 60px;
+    font-style: bold;
+}
+
+.umami {
+    font-size: 30px;
+    padding-right: 10px;
+}
+
+.jacksonville {
+    padding-left: 10px;
+}
+
+.header {
+    color: black;
+    padding-top: 70px;
+    padding-bottom: 30px;
+    font-size: 50px;
+}
+
+.button {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.border {
+    border: 20px solid black;
+
+}
+
+body {
+    background-image: url(https://i.dlpng.com/static/png/1314799-ocean-floor-backgroundpng-sea-png-hd-free-png-under-the-sea-1280_720_preview.png);
+    background-repeat: no-repeat;
+    background-size: 250%;
+    text-align: center;
+}
+
+.image {
+    border-style: 20px black solid;
+
+}
+
+.linepadding {
+    padding: 50px 0px;
+}
+
+.linebordertop {
+    padding: 100px 0px 30px 0px;
+}
+
+.linepadding2 {
+    padding: 90px 0px;
+}
+
+.linepadding3 {
+    padding: 25px 100px 25px 100px;
+}
+
+.cuisine {
+    size: 40px;
+}
+
+.curry {
+    height: 400px;
+}
+
+.border {
+    border: 3px;
+    Color: black;
+}
+
+
+.facebook {
+    font-size: 40px;
+    color: black;
+    padding-right: 20px;
+}
+
+.instagram {
+    font-size: 40px;
+    color: black;
+}
+
+.twitter {
+    font-size: 40px;
+    color: black;
+    padding-left: 20px;
+}
